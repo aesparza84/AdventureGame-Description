@@ -9,4 +9,4 @@ Your job is to cath those who you suspect stole the item they brought in.
 ###**Goal**
 In order to make a customer suspect you have to question them about their item. 
 The player has to make their choice based off the answers.
-
+Calling the Police on criminals will raise your score.
