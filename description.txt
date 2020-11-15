@@ -2,9 +2,9 @@
 Pawn Party
 
 ##**Overview**
-You are a pawn shop owner who is secretly working with the police. 
-There are reports of items being stolen in the area and being tracked down to pawn shops. 
-Your job is to cath those who you suspect stole the item they brought in.
+You are a pawn shop owner who is secretly working with the police in a bustling city. 
+There are reports of items being stolen in the area. Most of them end up in pawn shops. 
+Your job is to catch those who you suspect stole the item they brought in.
 
 ###**Goal**
 In order to make a customer suspect you have to question them about their item. 
